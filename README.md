@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working as an **Intern Software Engineer at Virtusa Pvt Ltd.**
 
-- 🌱 I’m currently learning **ASP .Net and AngularJS**
+- 🌱 I’m currently learning **ASP .Net, AngularJS and Laravel**
 
-- 💬 Ask me about **Android, MERN, Oracle, MySQL, Azure Logic Apps, MS Power Automate**
+- 💬 Ask me about **PHP, Android, MERN, Oracle, MySQL, Azure Logic Apps, MS Power Automate**
 
 - 📫 How to reach me **thaanish.ahmd@gmail.com**
 
