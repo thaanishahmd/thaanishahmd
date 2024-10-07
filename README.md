@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/thaanish_tj7" target="blank"><img src="https://img.shields.io/twitter/follow/thaanish_tj7?logo=twitter&style=for-the-badge" alt="thaanish_tj7" /></a> </p>
 
-- 🔭 I’m currently working as an **Intern Software Engineer at Virtusa Pvt Ltd.**
+- 🔭 I’m currently working as an **Associate Software Engineer at ISA - Information Systems Associates**
 
-- 🌱 I’m currently learning **ASP .Net, AngularJS and Laravel**
+- 🌱 I’m currently learning **Java, Spring Boot and Spring MVC**
 
 - 💬 Ask me about **PHP, Android, MERN, Oracle, MySQL, Azure Logic Apps, MS Power Automate**
 
